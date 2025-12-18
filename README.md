@@ -1,1 +1,5 @@
-To be added
+#Analiza Sentymentu NRC
+#Cel projektu
+##Technologie
+##Funkcje
+#Wynki
